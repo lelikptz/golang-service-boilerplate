@@ -1,0 +1,4 @@
+service:
+    name: "My service"
+    environment: ${ENVIRONMENT}
+    secret: ${SECRET}
